@@ -1,8 +1,6 @@
-## capital-finder
+# CAPITAL-FINDER
 
-use the following URL's to get the requested result:
+[https://serverless-functions-cye9ef88t-zekraquraan7-gmailcom.vercel.app/api/capital-finder?capital=](https://serverless-functions-cye9ef88t-zekraquraan7-gmailcom.vercel.app/api/capital-finder?capital=)*write the country name here after the equal sign*
 
-https://capital-finder-8v83.vercel.app/api/capital-finder?country= write the country name here after the equal sign
-
-
-https://capital-finder-8v83.vercel.app/api/capital-finder?capital= write the capital name here after the equal sign
+**************
+[https://serverless-functions-cye9ef88t-zekraquraan7-gmailcom.vercel.app/api/capital-finder](https://serverless-functions-cye9ef88t-zekraquraan7-gmailcom.vercel.app/api/capital-finder)*write the capital name here after the equal sign*
